@@ -1,0 +1,2 @@
+class PeripheriqueException(Exception):
+    pass
